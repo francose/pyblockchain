@@ -1,0 +1,97 @@
+('Gender : ', 'female')
+('Date of Birth : ', '20, 12, 1932')
+('Social Security Number : ', '643, 19, 6338')
+('Yearly Income : ', 54882)
+('Avg. Yearly Expense  : ', 27548)
+('Credit Score : ', 617)
+('Loan Term : ', 5)
+object created
+
+('Gender : ', 'male')
+('Date of Birth : ', '5, 5, 1941')
+('Social Security Number : ', '221, 24, 9738')
+('Yearly Income : ', 51791)
+('Avg. Yearly Expense  : ', 4712)
+('Credit Score : ', 1186)
+('Loan Term : ', 5)
+object created
+
+('Gender : ', 'female')
+('Date of Birth : ', '26, 1, 1931')
+('Social Security Number : ', '242, 29, 7105')
+('Yearly Income : ', 90533)
+('Avg. Yearly Expense  : ', 41921)
+('Credit Score : ', 455)
+('Loan Term : ', 5)
+object created
+
+('Gender : ', 'female')
+('Date of Birth : ', '21, 3, 2007')
+('Social Security Number : ', '345, 70, 1578')
+('Yearly Income : ', 87236)
+('Avg. Yearly Expense  : ', 42406)
+('Credit Score : ', 1211)
+('Loan Term : ', 5)
+object created
+
+('Gender : ', 'female')
+('Date of Birth : ', '13, 5, 1930')
+('Social Security Number : ', '859, 71, 7253')
+('Yearly Income : ', 67317)
+('Avg. Yearly Expense  : ', 1649)
+('Credit Score : ', 887)
+('Loan Term : ', 5)
+object created
+
+('Gender : ', 'female')
+('Date of Birth : ', '10, 1, 1982')
+('Social Security Number : ', '779, 76, 7848')
+('Yearly Income : ', 87931)
+('Avg. Yearly Expense  : ', 8525)
+('Credit Score : ', 537)
+('Loan Term : ', 1)
+object created
+
+('Gender : ', 'female')
+('Date of Birth : ', '20, 6, 1946')
+('Social Security Number : ', '901, 54, 6450')
+('Yearly Income : ', 51544)
+('Avg. Yearly Expense  : ', 54315)
+('Credit Score : ', 1076)
+('Loan Term : ', 5)
+object created
+
+('Gender : ', 'male')
+('Date of Birth : ', '3, 1, 2015')
+('Social Security Number : ', '694, 94, 7301')
+('Yearly Income : ', 13089)
+('Avg. Yearly Expense  : ', 49071)
+('Credit Score : ', 1332)
+('Loan Term : ', 3)
+object created
+
+('Gender : ', 'male')
+('Date of Birth : ', '16, 6, 1958')
+('Social Security Number : ', '474, 64, 2846')
+('Yearly Income : ', 31507)
+('Avg. Yearly Expense  : ', 19157)
+('Credit Score : ', 955)
+('Loan Term : ', 3)
+object created
+
+('Gender : ', 'male')
+('Date of Birth : ', '6, 8, 1981')
+('Social Security Number : ', '652, 18, 5927')
+('Yearly Income : ', 16136)
+('Avg. Yearly Expense  : ', 34263)
+('Credit Score : ', 878)
+('Loan Term : ', 3)
+object created
+
+('Gender : ', 'male')
+('Date of Birth : ', '19, 4, 1996')
+('Social Security Number : ', '446, 76, 2705')
+('Yearly Income : ', 54132)
+('Avg. Yearly Expense  : ', 52448)
+('Credit Score : ', 895)
+('Loan Term : ', 3)
