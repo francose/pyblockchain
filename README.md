@@ -1,0 +1,1 @@
+This repository is demonstrating and implementing a simple chain with out relying on any other framework like hyperledger composer and etc. It helped me to gain better understanding how it works.  
